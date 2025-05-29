@@ -2,7 +2,7 @@ import requests
 import json
 
 # Ваш токен (никому не показывайте!)
-GITHUB_TOKEN = "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"
+GITHUB_TOKEN = ""
 
 # Настройки запроса
 headers = {
